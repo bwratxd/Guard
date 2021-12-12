@@ -1,4 +1,4 @@
-# taray-c-eysi
+
 tarayıcıdan girince bot oto yt rol yönetinizi çekiyo kapatınca tarayıcıyı geri veriyor sekme açıp rol silmeyi engellemeye yararyan bir sistem yapan kişi discordda ilk Olarak Arkadaşım Dens#1887 
 
 

@@ -1,6 +1,6 @@
 Guard Botlarında bir ilk
 
-paylaşma sebebimiz bizden sonra yaparlar ise sistemi ilk ben yaptım dememeleri sadece öyle bişey olursa kanıt olarak bırakıyorum Aslan kardeşim 
+paylaşma sebebimiz bizden sonra yaparlar ise sistemi ilk ben yaptım dememeleri sadece öyle bişey olursa kanıt olarak bırakıyorum Aslan kardeşim Dens
 
 ne işime yarayacak derseniz insanlar tarayıcılardan sekme açıp sunucunuzdan kolay kolay 20 30 rol silemez bot direkt sürekli tarıyor ve tarayıcıdan örneğin owner rolünde rol yönet veya yönetici açık owner rolünün idsini girdiniz bota owner rolünde tarayıcıdan girip sekme açmaya çalışan kişisden direk rolü çekiyor kapatınca geri veriyor
 
